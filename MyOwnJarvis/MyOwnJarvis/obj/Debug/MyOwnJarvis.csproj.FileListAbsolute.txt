@@ -1,0 +1,12 @@
+c:\users\jesse_r_gibson\documents\visual studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\bin\Debug\MyOwnJarvis.exe.config
+c:\users\jesse_r_gibson\documents\visual studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\bin\Debug\MyOwnJarvis.exe
+c:\users\jesse_r_gibson\documents\visual studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\bin\Debug\MyOwnJarvis.pdb
+c:\users\jesse_r_gibson\documents\visual studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\obj\Debug\MyOwnJarvis.csprojResolveAssemblyReference.cache
+c:\users\jesse_r_gibson\documents\visual studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\obj\Debug\MyOwnJarvis.exe
+c:\users\jesse_r_gibson\documents\visual studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\obj\Debug\MyOwnJarvis.pdb
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\bin\Debug\MyOwnJarvis.exe.config
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\bin\Debug\MyOwnJarvis.exe
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\bin\Debug\MyOwnJarvis.pdb
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\obj\Debug\MyOwnJarvis.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\obj\Debug\MyOwnJarvis.exe
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\MyOwnJarvis\MyOwnJarvis\obj\Debug\MyOwnJarvis.pdb
